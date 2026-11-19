@@ -46,7 +46,7 @@ I’m a software engineer with 9+ years of experience building web applications,
 - Develop REST APIs and backend services for application workflows.
 - Work on technical implementation, application architecture, and product requirements.
 
-### Senior Software Engineer — Soum
+### Senior Software Engineer — Soum.Sa
 **March 2019 – July 2022**
 
 - Developed enterprise web applications using React.js, Node.js, and Express.js.
